@@ -1,0 +1,12 @@
+# Boltz input payloads and downloaded results
+boltz_input_*.json
+boltz_refold_*.json
+*_raw.json
+
+# Local outputs
+boltz_designs/
+*.csv.bak
+
+# OS
+Thumbs.db
+.DS_Store

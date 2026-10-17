@@ -1,0 +1,6 @@
+name,role,smiles,formula,mw,inchikey
+Ampicillin,substrate,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,C16H19N3O4S,349.41,AVKUERGKIZMTKX
+Amoxicillin,substrate,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,C16H19N3O5S,365.41,LSQZJLSUYDQPKJ
+Clavulanic acid,mechanism-based inhibitor,C1C2N(C1=O)C(C(=CCO)O2)C(=O)O,C8H9NO5,199.16,HZZVJAQRINQKSD
+Sulbactam,mechanism-based inhibitor,CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)C,C8H11NO5S,233.24,FKENQMMABCRJMK
+Avibactam,non-beta-lactam (DBO) inhibitor,C1CC(N2CC1N(C2=O)OS(=O)(=O)O)C(=O)N,C7H11N3O6S,265.25,NDCUAPJVLWFHHB
